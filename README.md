@@ -1,15 +1,12 @@
 # Portfolio
 Links and documents for my portfolio are available here.
 
-## Drive Link for Gameplay videos and/or Demos
-Portfolio link: https://drive.google.com/drive/folders/1GQxBDWvZ4pow9_oNFuGbD9ff1KLRft6D?usp=sharing
+## Links for Gameplay videos and/or Demos
+Portfolio link: https://www.youtube.com/playlist?list=PLHuy6HTy8KF3-PLkBTglKe4VNI4_MKbEz 
 
-## You can find CV/Resume below
-CV/Resume link: https://drive.google.com/drive/folders/1LwDw5aT1puU5UmK3abC3EKBFTQ2iDHiF?usp=sharing
+Game Demos link: https://drive.google.com/drive/folders/1GQxBDWvZ4pow9_oNFuGbD9ff1KLRft6D?usp=sharing
 
 ### LinkedIn
-LinkedIn: https://www.linkedin.com/in/kedar-chandulur-42b1a317a/
-
 For All the projects description at one place, Please check the Projects tab in Linkedin.
 
 #### Other Projects
