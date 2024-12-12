@@ -7,7 +7,7 @@ Links and documents for my portfolio are available here.
 [Access Game demos here](https://drive.google.com/drive/folders/1R_cf1DxQs3nRPIJxcY0E4LptXCEE-De5?usp=sharing)
 
 ### LinkedIn
-For All the projects description at one place, Please check the Projects tab in Linkedin.
+For All the projects description at one place, Please check the Projects tab in [Linkedin](https://www.linkedin.com/in/kedar-chandulur-42b1a317a/).
 
 #### Other Projects
 For other projects go to my <a href="https://github.com/KedarChandulur" target="_blank"> GitHub Home page</a> or <a href="https://github.com/KedarChandulur?tab=repositories" target="_blank"> Repository tab </a>
