@@ -2,7 +2,9 @@
 Links and documents for my portfolio are available here.
 
 ### LinkedIn
-For all the project descriptions at one place, Please check the Projects tab in [Linkedin](https://www.linkedin.com/in/kedar-chandulur-42b1a317a/details/projects/).
+For the project descriptions:
+Please check the following document [Project_Summeries](https://drive.google.com/drive/folders/1J98B0PSI26CctiTPGoJwP9ZjR0wcB3Cp?usp=sharing) and
+Projects tab in [Linkedin](https://www.linkedin.com/in/kedar-chandulur-42b1a317a/details/projects/)
 
 ## Links for Gameplay videos and/or Demos
 [Access Portfolio videos here](https://www.youtube.com/playlist?list=PLHuy6HTy8KF3-PLkBTglKe4VNI4_MKbEz)
